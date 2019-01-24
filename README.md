@@ -14,3 +14,4 @@ Infrastructure as code
 *  [Ansible IaC](https://medium.com/@tomwwright/automation-with-ansible-introduction-ccfa1baf8f5c)
 
 # Example
+* [Ansible CI/CD](https://www.blazemeter.com/blog/installing-ci-cd-tools-with-ansible-everything-you-need-to-know)
