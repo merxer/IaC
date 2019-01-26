@@ -11,6 +11,7 @@ Infrastructure as code
 
 # Links
 *  [Terraform](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
+*  [Terratorm 2](https://dev.to/frosnerd/infrastructure-as-code---managing-aws-with-terraform-i9o)
 *  [Ansible IaC](https://medium.com/@tomwwright/automation-with-ansible-introduction-ccfa1baf8f5c)
 
 # Example
