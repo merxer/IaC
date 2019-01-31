@@ -17,3 +17,4 @@ Infrastructure as code
 # Example
 * [Ansible CI/CD](https://www.blazemeter.com/blog/installing-ci-cd-tools-with-ansible-everything-you-need-to-know)
 * [The challenges of migrating 150+ microservices to Kubernetes - Sarah Wells (Financial Times)](https://learning.oreilly.com/videos/oreilly-software-architecture/9781492025917/9781492025917-video323696/)
+* [AWS ALB](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/tutorial-application-load-balancer-cli.html)
