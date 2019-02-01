@@ -8,6 +8,7 @@ Infrastructure as code
 
 # Tutorial
 *  [Artemmkin](https://github.com/Artemmkin/infrastructure-as-code-tutorial)
+*  [AWS Trainning](https://www.aws.training/LearningLibrary)
 
 # Links
 *  [Terraform](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
